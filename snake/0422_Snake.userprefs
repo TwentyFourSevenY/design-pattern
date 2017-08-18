@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Script/Zone.cs">
+    <Files>
+      <File FileName="Assets/Resources/Script/Treasure.cs" Line="7" Column="25" />
+      <File FileName="Assets/Resources/Script/TreasureFactory.cs" Line="13" Column="25" />
+      <File FileName="Assets/Resources/Script/Game.cs" Line="13" Column="35" />
+      <File FileName="Assets/Resources/Script/Node.cs" Line="10" Column="11" />
+      <File FileName="Assets/Resources/Script/GameController.cs" Line="28" Column="19" />
+      <File FileName="Assets/Resources/Script/Snake.cs" Line="3" Column="19" />
+      <File FileName="Assets/Resources/Script/Zone.cs" Line="21" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="0422_Snake" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="Zone.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
